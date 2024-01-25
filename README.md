@@ -1,6 +1,8 @@
 # PUPHUB
+
+## Backend
 ```
-puphub_system:backend
+puphub_system
 ```
 
 ## Project setup
