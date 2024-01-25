@@ -1,0 +1,52 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  /* -webkit-text-size-adjust: none; */
+  /* touch-action: none; */
+  /* overflow-x: hidden; */
+}
+
+.leftfix {
+  float: left;
+}
+
+.rightfix {
+  float: right;
+}
+
+.clearfix {
+  content: '';
+  display: block;
+  clear: both;
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+@font-face {
+  font-family: 'Glades Bold';
+  src: url('../fonts/NCAA\ FSU\ Noles\ Glades\ Bold.ttf');
+}
+
+@font-face {
+  font-family: 'Pangolin';
+  src: url('../fonts/Pangolin-Regular.ttf');
+}
+
+@font-face {
+  font-family: 'Roboto';
+  src: url('../fonts/Roboto-Regular-14.ttf');
+}
+
+@font-face {
+  font-family: 'Rubik';
+  src: url('../fonts/Rubik.woff2.ttf');
+}
