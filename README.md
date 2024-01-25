@@ -1,4 +1,4 @@
-# vue_test
+# PUPHUB
 
 ## Project setup
 ```
